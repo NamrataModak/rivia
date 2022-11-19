@@ -1,0 +1,18 @@
+.card-main{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    justify-content: space-between;
+    
+}
+
+.main-div{
+    border: 1px solid gray;
+    width: 350px;
+    padding: 4px;
+}
+.card-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
